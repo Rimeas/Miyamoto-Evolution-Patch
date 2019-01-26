@@ -4,9 +4,9 @@ A Patch for the Miyamoto! level editor intended to expand it it include more spr
 
 # Tutorial
 
-Place this folder into miyamotodata/patches and then restart Miyamoto.
-Once you've done that, in Miyamoto go too File > Change Game and select Rimea's Custom Stuffs.
-It will ask you to select a Stage folder, simply navigate to your original Stage folder.
+Place this folder into miyamotodata/patches and then restart Miyamoto. <br>
+Once you've done that, in Miyamoto go to File > Change Game and select Rimea's Custom Stuffs. <br>
+It will ask you to select a Stage folder, simply navigate to your original Stage folder. <br>
 
 If you have any troubles contact Rimea#1558 on Discord
 
