@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<game name="Miyamoto Evolution Patch" version="1.0" description="An Evolved version of Miyamoto!">
-
-    <folder name="sprites" path="sprites" />
-    <file name="spritedata" path="spritedata.xml" />
-    <file name="sprites" path="sprites.py" />
-
-</game>
